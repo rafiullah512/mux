@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-u=o%zfqozx3mvf%f3zrk(a-rgs!s-jaxkf1+1to^bx1z)6+p1p
 DEBUG = True
 
 
-ALLOWED_HOSTS = ["mux2.onrender.com", "127.0.0.1", "localhost"]
+ALLOWED_HOSTS = ["mux2.onrender.com"]
 
 
 # Application definition
